@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpptester", "cpptester.vcxproj", "{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Debug|x64.ActiveCfg = Debug|x64
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Debug|x64.Build.0 = Debug|x64
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Debug|x86.Build.0 = Debug|Win32
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Release|x64.ActiveCfg = Release|x64
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Release|x64.Build.0 = Release|x64
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Release|x86.ActiveCfg = Release|Win32
+		{B92224F5-DAF5-4335-8A6D-8CFA4CFFC4AB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E524BFA6-9256-4307-9719-5A9FDCD5AF5C}
+	EndGlobalSection
+EndGlobal
